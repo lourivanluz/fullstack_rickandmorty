@@ -1,0 +1,6 @@
+[submodule "back_end_rickandmory"]
+	path = back_end_rickandmory
+	url = https://github.com/lourivanluz/back_end_rickandmory
+[submodule "front_end_rickandmorty"]
+	path = front_end_rickandmorty
+	url = https://github.com/lourivanluz/front_end_rickandmory
